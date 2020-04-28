@@ -1,2 +1,10 @@
 # Human_Activity_Recognition
-It is Sequence Classification  using LSTM. 
+It classifies sequences of accelerometer data recorded by specialized smart phones into known well-defined activities using LSTM.The six activities performed were as follows:
+    1. Walking
+    2. Walking Upstairs
+    3. Walking Downstairs
+    4. Sitting
+    5. Standing
+    6. Laying
+
+The dataset used here is UCI HAR dataset. 
