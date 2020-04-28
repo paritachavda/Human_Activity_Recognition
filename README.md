@@ -5,4 +5,4 @@ It classifies sequences of accelerometer data recorded by specialized smart phon
     3. Walking Downstairs
     4. Sitting
     5. Standing
-    6. Laying. The dataset used here is UCI HAR dataset. 
+    6. Laying. The dataset used here is UCI HAR dataset. Link to dataset is https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
